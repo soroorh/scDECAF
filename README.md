@@ -3,4 +3,4 @@ Single Cell RNAseq population deconvolution by canonical factors
 
 
 
-![](scDECAF.svg)  
+![](scDECAF-01.png)  
